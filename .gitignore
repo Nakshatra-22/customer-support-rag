@@ -1,0 +1,27 @@
+# Virtual environment
+venv/
+
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code settings (optional)
+.vscode/
+
+# Streamlit cache
+.streamlit/cache/
+
+# Python distribution folders
+build/
+dist/
+*.egg-info/
